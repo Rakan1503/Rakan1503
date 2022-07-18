@@ -1,5 +1,5 @@
 - 👋 Hi everyone, this is @Rakan1503 speaki... Writing here :)
-- 👀 I look forward to be able to code proprely and to be able to write withuot mistakes
+- 👀 I look forward to be able to code proprely and to be able to write without mistakes
 - 🌱 I’m currently learning how does GitHub works & how to manage it from an RPi
 - 💞️ I’m looking to collaborate on anything interesting, basically
 - 📫 How to reach me:
